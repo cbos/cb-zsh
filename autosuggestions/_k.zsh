@@ -1,7 +1,7 @@
 #compdef k
 compdef _kkubectl k
 
-# zsh completion for kubectl                              -*- shell-script -*-
+# zsh completion for k                              -*- shell-script -*-
 
 __kkubectl_debug()
 {
